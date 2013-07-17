@@ -11,6 +11,19 @@ function navigateToFrmBrwStaticHTML(){
 	frmBrwStaticHTML.show();
 }
 
+
+/*
+*****************************************************************
+*	Name    : navigateToFrmBrwStaticHTML
+*	Author  : Kony
+*	Purpose : Navigate to frmFeatures
+*****************************************************************
+*/
+
+
+function navigateToFrmFeatures(){
+	frmFeatures.show();
+}
 /*
 **************************************************************************************************************
 *	Name    : navigateToFrmBrwDynamicURL

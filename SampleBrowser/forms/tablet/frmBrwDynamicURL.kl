@@ -1407,21 +1407,21 @@
                     <desktop_kiosk_channel>true</desktop_kiosk_channel>
                     <desktop_web_channel>true</desktop_web_channel>
                     <mixed_android>true</mixed_android>
-                    <mixed_android_tab>true</mixed_android_tab>
+                    <mixed_android_tab>false</mixed_android_tab>
                     <mixed_bb>true</mixed_bb>
-                    <mixed_ipad>true</mixed_ipad>
+                    <mixed_ipad>false</mixed_ipad>
                     <mixed_iphone>true</mixed_iphone>
-                    <rc_android>false</rc_android>
-                    <rc_android_tab>true</rc_android_tab>
-                    <rc_blackberry>false</rc_blackberry>
+                    <rc_android>true</rc_android>
+                    <rc_android_tab>false</rc_android_tab>
+                    <rc_blackberry>true</rc_blackberry>
                     <rc_ipad>false</rc_ipad>
-                    <rc_iphone>false</rc_iphone>
-                    <rc_j2me>false</rc_j2me>
-                    <rc_palm>false</rc_palm>
-                    <rc_symbian>false</rc_symbian>
+                    <rc_iphone>true</rc_iphone>
+                    <rc_j2me>true</rc_j2me>
+                    <rc_palm>true</rc_palm>
+                    <rc_symbian>true</rc_symbian>
                     <rc_windows8>true</rc_windows8>
                     <rc_winmobile>true</rc_winmobile>
-                    <rc_winmobile6x>false</rc_winmobile6x>
+                    <rc_winmobile6x>true</rc_winmobile6x>
                     <rc_winphone8>true</rc_winphone8>
                     <tabspa_ipad>true</tabspa_ipad>
                     <tabspa_windows>true</tabspa_windows>
@@ -1788,12 +1788,12 @@
                     <spaipad>
                         <left>0</left>
                         <right>0</right>
-                        <top>0</top>
-                        <bottom>0</bottom>
+                        <top>1</top>
+                        <bottom>1</bottom>
                         <unit>%</unit>
                     </spaipad>
-                    <spaipad_override>false</spaipad_override>
-                    <spatablet_android_override>false</spatablet_android_override>
+                    <spaipad_override>true</spaipad_override>
+                    <spatablet_android_override>true</spatablet_android_override>
                     <spatablet_windows_override>false</spatablet_windows_override>
                     <symbian>
                         <left>1</left>
@@ -1814,8 +1814,8 @@
                     <tabspaAndroid>
                         <left>0</left>
                         <right>0</right>
-                        <top>0</top>
-                        <bottom>0</bottom>
+                        <top>1</top>
+                        <bottom>1</bottom>
                         <unit>%</unit>
                     </tabspaAndroid>
                     <tabspaWindows>
@@ -1963,7 +1963,7 @@
                     </xhtmlNormal>
                     <xhtmlNormal_override>false</xhtmlNormal_override>
                 </paddings>
-                <SText>Browser</SText>
+                <SText>Dynamic URL</SText>
                 <overridePerferred>
                     <width>true</width>
                     <height>false</height>

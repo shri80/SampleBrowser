@@ -12,7 +12,7 @@
     <attributes name="INTERNAL_SYSTEM_WINDOW" value="false"/>
     <attributes name="wp8cycle4key" value=""/>
     <attributes name="WRITE_SETTINGS" value="false"/>
-    <attributes name="startupformkey" value="frmHome"/>
+    <attributes name="startupformkey" value="frmAppDescription"/>
     <attributes name="ACCOUNT_MANAGER" value="false"/>
     <attributes name="tcpalm480basefontsize" value="14"/>
     <attributes name="wp8cycle6key" value=""/>
@@ -143,7 +143,7 @@
     <attributes name="GET_TASKS" value="false"/>
     <attributes name="Music_Library" value="true"/>
     <attributes name="tciphonebasefontsize" value="12"/>
-    <attributes name="tabletstartupformkey" value="frmHome"/>
+    <attributes name="tabletstartupformkey" value="frmAppDescription"/>
     <attributes name="pathpatternkey" value=""/>
     <attributes name="splashlogokey" value="0=splash.png,1=splash.png,8=splash.9.png,2=,3=,20=,9=,15=,14=,42=,16=splash_768x1024.png,18=splash_720x1280.png,43=,31=splash_768x1024.png,32=splash_720x1280.png,45=,22=splash.png,23=splash.9.png,24=,35=,44=,36=,37="/>
     <attributes name="USE_SIP" value="false"/>
